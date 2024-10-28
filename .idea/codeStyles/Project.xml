@@ -1,0 +1,20 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <option name="LINE_SEPARATOR" value="&#10;" />
+    <GoCodeStyleSettings>
+      <option name="ADD_LEADING_SPACE_TO_COMMENTS" value="true" />
+    </GoCodeStyleSettings>
+    <MarkdownNavigatorCodeStyleSettings>
+      <option name="WRAP_ON_TYPING" value="0" />
+      <option name="RIGHT_MARGIN" value="72" />
+    </MarkdownNavigatorCodeStyleSettings>
+    <editorconfig>
+      <option name="ENABLED" value="false" />
+    </editorconfig>
+    <codeStyleSettings language="go">
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="false" />
+      </indentOptions>
+    </codeStyleSettings>
+  </code_scheme>
+</component>
