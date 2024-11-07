@@ -1,4 +1,4 @@
-module learn
+module  github.com/crayon409/learn
 
 go 1.23.2
 
@@ -10,6 +10,7 @@ require (
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/redis/go-redis/v9 v9.7.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gorm.io/driver/mysql v1.5.7 // indirect
 	gorm.io/gorm v1.25.12 // indirect
 )
